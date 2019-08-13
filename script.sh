@@ -7,3 +7,4 @@ for f in $(cat files.txt)
 do
 cd $f && npm i && npm run compile && cd ..
 done
+rm -rf files.txt
