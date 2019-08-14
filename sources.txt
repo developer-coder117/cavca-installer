@@ -1,3 +1,4 @@
+https://github.com/dbsolution-computacion-e-informatica/cavca-cotizador-core.git
 https://github.com/dbsolution-computacion-e-informatica/cavca-cotizador-robot-estado.git
 https://github.com/dbsolution-computacion-e-informatica/cavca-cotizador-robot-equidad.git
 https://github.com/dbsolution-computacion-e-informatica/cavca-cotizador-robot-tester.git
@@ -7,4 +8,4 @@ https://github.com/dbsolution-computacion-e-informatica/cavca-cotizador-robot-li
 https://github.com/dbsolution-computacion-e-informatica/cavca-cotizador-robot-demo.git
 https://github.com/dbsolution-computacion-e-informatica/cavca-cotizador-robot-hdi.git
 https://github.com/dbsolution-computacion-e-informatica/cavca-cotizador-robot-mapfre.git
-https://github.com/dbsolution-computacion-e-informatica/cavca-cotizador-core.git
+https://github.com/dbsolution-computacion-e-informatica/cavca-cotizador-robot-sura.git
