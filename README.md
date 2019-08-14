@@ -1,3 +1,2 @@
 # cavca-installer
-setup script
-just run 
+Script para clonar y compilar el projecto
