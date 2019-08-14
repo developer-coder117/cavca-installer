@@ -1,4 +1,4 @@
-for i in $(cat source.txt)
+for i in $(cat sources.txt)
 do
 git clone $i
 done
